@@ -1,0 +1,1235 @@
+CRITICAL - 2022-03-14 05:06:26 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:28 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:29 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:30 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:31 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:32 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:32 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:33 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:33 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:34 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:39 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:40 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:40 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:42 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:43 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:43 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:43 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:55 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:55 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:06:56 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:07:23 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:07:25 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:07:25 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:07:37 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:07:47 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:07:48 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:07:48 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:07:49 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:07:59 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:07:59 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:08:00 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:08:00 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:08:04 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:08:31 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:08:32 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:08:32 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:08:33 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:08:33 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:10:14 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:10:16 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:10:16 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:10:47 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:11:14 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:11:16 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:11 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:14 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:15 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:28 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:32 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:33 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:43 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:44 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:44 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:46 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:47 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:47 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:17:47 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:21:05 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:21:05 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:21:06 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:21:08 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:21:08 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:21:08 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:21:09 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:21:10 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:21:21 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:21:22 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:21:22 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:21:32 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:22:22 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:22:39 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:22:40 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:22:40 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:25:21 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:25:50 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:26:13 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:26:15 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('zawody', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(72): view('zawody', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:26:16 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:26:17 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:26:18 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:26:18 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(55): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->logout()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:26:18 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(55): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->logout()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:26:20 --> Invalid file: login.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(42): view('login', Array)
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-14 05:26:21 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:26:22 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:26:22 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:26:23 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:26:27 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:12 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:12 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:13 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:15 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:15 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:15 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:16 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:19 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:19 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:20 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:20 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:20 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:45 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:33:45 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:34:22 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:34:23 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:34:23 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:34:30 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:34:31 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:34:37 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:35:21 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:35:29 --> Invalid file: layouts/main.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/main.ph...')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokarts', Array, true)
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(23): view('gokarts', Array)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->index()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-14 05:37:28 --> Invalid file: login.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(42): view('login', Array)
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-14 05:38:03 --> Invalid file: login.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(42): view('login', Array)
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-14 05:42:11 --> Invalid file: login.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(42): view('login', Array)
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-14 06:19:20 --> Invalid file: login.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(42): view('login', Array)
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-14 06:54:09 --> Invalid file: login.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(42): view('login', Array)
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-14 08:43:02 --> Invalid file: login.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(42): view('login', Array)
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-14 09:45:48 --> Invalid file: login.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(42): view('login', Array)
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-14 09:45:55 --> Invalid file: login.php
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(42): view('login', Array)
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-03-14 14:34:02 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-14 14:34:02 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(77): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-14 14:34:08 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-14 14:34:08 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(77): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-14 14:34:57 --> Error connecting to the database: Unknown database 'gokarty'
+CRITICAL - 2022-03-14 14:34:57 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'gokarty'
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(77): App\Models\GokartModel->jedzie()
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-03-14 18:40:28 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-14 18:40:28 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(77): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-14 19:01:12 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-14 19:01:12 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(77): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

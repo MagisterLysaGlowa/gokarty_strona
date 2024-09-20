@@ -1,0 +1,24 @@
+Link: 
+http://gokarty.zstio.edu.pl/main
+
+Loginy:
+zstio - ZawodyZAQ1@WSX
+sedzia - ZawodyZAQ1@WSX
+
+FTP:
+Host: zstio.atthost24.pl
+Login: zstio_gokarty
+Hasło : Zawody123!@#
+
+Baza danych:
+Link: https://phpmyadmin.atthost.pl
+Login: 6143_gokart
+Hasło: Zawody123!@#
+
+
+Uwagi:
+-Napisane w codeigniter (MVC)
+-Brak funkcji usuwania przy modyfikacji
+-Problem ze skryptem do losowania przejazdów
+
+

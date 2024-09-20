@@ -1,0 +1,51 @@
+CRITICAL - 2022-03-16 11:54:48 --> Undefined property: stdClass::$permisje
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\LoginController.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\Xampp\\htdocs...', 30)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\LoginController->login()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 16:18:06 --> Undefined variable $result
+#0 E:\Xampp\htdocs\gokarty\app\Views\arbiter.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\Xampp\\htdocs...', 9)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(210): include('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('arbiter', Array, true)
+#4 E:\Xampp\htdocs\gokarty\app\Controllers\ArbiterController.php(28): view('arbiter', Array)
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\ArbiterController->index()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArbiterController))
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-16 16:18:45 --> Undefined variable $result
+#0 E:\Xampp\htdocs\gokarty\app\Views\arbiter.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\Xampp\\htdocs...', 9)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(210): include('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('arbiter', Array, true)
+#4 E:\Xampp\htdocs\gokarty\app\Controllers\ArbiterController.php(28): view('arbiter', Array)
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\ArbiterController->index()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArbiterController))
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-16 16:19:53 --> Undefined variable $result
+#0 E:\Xampp\htdocs\gokarty\app\Views\arbiter.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\Xampp\\htdocs...', 9)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(210): include('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('arbiter', Array, true)
+#4 E:\Xampp\htdocs\gokarty\app\Controllers\ArbiterController.php(28): view('arbiter', Array)
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\ArbiterController->index()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArbiterController))
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-16 16:22:21 --> Undefined variable $result
+#0 E:\Xampp\htdocs\gokarty\app\Views\arbiter.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\Xampp\\htdocs...', 9)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(210): include('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('arbiter', Array, true)
+#4 E:\Xampp\htdocs\gokarty\app\Controllers\ArbiterController.php(28): view('arbiter', Array)
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\ArbiterController->index()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArbiterController))
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

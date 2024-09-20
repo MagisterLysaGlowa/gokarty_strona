@@ -1,0 +1,326 @@
+ERROR - 2022-03-15 04:07:58 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-15 04:07:58 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(78): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-15 04:08:11 --> Undefined variable $model
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\Xampp\\htdocs...', 36)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 04:13:23 --> Undefined variable $model
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\Xampp\\htdocs...', 36)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 04:13:33 --> Undefined variable $model
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\Xampp\\htdocs...', 36)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-15 04:23:11 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-15 04:23:11 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(83): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-15 04:23:33 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-15 04:23:33 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(83): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-15 04:23:42 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-15 04:23:42 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(83): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-15 04:26:36 --> Undefined array key 0
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\Xampp\\htdocs...', 42)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 04:26:50 --> Undefined array key 0
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\Xampp\\htdocs...', 42)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 04:27:57 --> Undefined array key 0
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\Xampp\\htdocs...', 42)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->login()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-15 04:28:20 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-15 04:28:20 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(83): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-15 04:39:42 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-15 04:39:42 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(84): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-15 04:55:53 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-15 04:55:53 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(84): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-15 04:59:13 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-15 04:59:13 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(84): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-15 05:07:46 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-15 05:07:46 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(84): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-15 05:08:19 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-15 05:08:19 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(84): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-15 06:33:23 --> Table 'gokarty.tmp_przejazd' doesn't exist
+CRITICAL - 2022-03-15 06:33:23 --> Table 'gokarty.tmp_przejazd' doesn't exist
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 E:\Xampp\htdocs\gokarty\app\Models\GokartModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(84): App\Models\GokartModel->jedzie()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->zawody()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-15 06:51:47 --> Undefined variable $resultleaderboard
+#0 E:\Xampp\htdocs\gokarty\app\Views\scoreboard.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\Xampp\\htdocs...', 22)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(210): include('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('scoreboard', Array, true)
+#4 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(176): view('scoreboard', Array)
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->scoreboard()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-15 06:52:32 --> Undefined variable $resultleaderboard
+#0 E:\Xampp\htdocs\gokarty\app\Views\scoreboard.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\Xampp\\htdocs...', 22)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(210): include('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('scoreboard', Array, true)
+#4 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(176): view('scoreboard', Array)
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->scoreboard()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-15 06:52:34 --> Undefined variable $resultleaderboard
+#0 E:\Xampp\htdocs\gokarty\app\Views\scoreboard.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\Xampp\\htdocs...', 22)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(210): include('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('scoreboard', Array, true)
+#4 E:\Xampp\htdocs\gokarty\app\Controllers\Gokarts.php(176): view('scoreboard', Array)
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\Gokarts->scoreboard()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gokarts))
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-15 08:33:24 --> Attempt to read property "czas" on array
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\CompetitionController.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'E:\\Xampp\\htdocs...', 38)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\CompetitionController->index()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CompetitionController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 08:33:38 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\CompetitionController.php(36): App\Models\CompetitionModel->leaderboard()
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\CompetitionController->index()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CompetitionController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 08:33:56 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\CompetitionController.php(36): App\Models\CompetitionModel->leaderboard()
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\CompetitionController->index()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CompetitionController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 08:34:10 --> Attempt to read property "czas" on array
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\CompetitionController.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'E:\\Xampp\\htdocs...', 38)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\CompetitionController->index()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CompetitionController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 08:34:42 --> Undefined property: mysqli::$czas
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\CompetitionController.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\Xampp\\htdocs...', 38)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\CompetitionController->index()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CompetitionController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 08:35:46 --> Call to undefined method App\Models\CompetitionModel::getResult()
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\CompetitionController.php(36): App\Models\CompetitionModel->leaderboard()
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\CompetitionController->index()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CompetitionController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 10:17:37 --> Undefined array key "zalogowany"
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\ModificationController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\Xampp\\htdocs...', 14)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\ModificationController->index()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ModificationController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 10:21:48 --> Undefined array key "zalogowany"
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\ModificationController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\Xampp\\htdocs...', 14)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\ModificationController->index()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ModificationController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 10:21:51 --> Undefined array key "zalogowany"
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\ModificationController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\Xampp\\htdocs...', 14)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\ModificationController->index()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ModificationController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 10:22:04 --> Undefined array key "zalogowany"
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\ArbiterController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\Xampp\\htdocs...', 15)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\ArbiterController->index()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArbiterController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 10:23:14 --> Undefined array key "zalogowany"
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\ArbiterController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\Xampp\\htdocs...', 15)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\ArbiterController->index()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArbiterController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 10:23:16 --> Undefined array key "zalogowany"
+#0 E:\Xampp\htdocs\gokarty\app\Controllers\ArbiterController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\Xampp\\htdocs...', 15)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\ArbiterController->index()
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ArbiterController))
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 10:31:28 --> Undefined array key "zalogowany"
+#0 E:\Xampp\htdocs\gokarty\app\Views\layouts\main.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\Xampp\\htdocs...', 30)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(210): include('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokartsMain', Array, true)
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\LoginController.php(45): view('gokartsMain', Array)
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\LoginController->logout()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-15 10:31:53 --> Undefined array key "zalogowany"
+#0 E:\Xampp\htdocs\gokarty\app\Views\layouts\main.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\Xampp\\htdocs...', 30)
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(210): include('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\View\View.php(226): CodeIgniter\View\View->render('layouts/main', Array, true)
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Common.php(1089): CodeIgniter\View\View->render('gokartsMain', Array, true)
+#5 E:\Xampp\htdocs\gokarty\app\Controllers\LoginController.php(45): view('gokartsMain', Array)
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\LoginController->logout()
+#7 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#8 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

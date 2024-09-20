@@ -1,0 +1,12 @@
+ERROR - 2022-03-31 07:14:47 --> Error connecting to the database: Unknown database 'gokarty'
+CRITICAL - 2022-03-31 07:14:47 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'gokarty'
+#0 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 E:\Xampp\htdocs\gokarty\app\Models\ArbiterModel.php(31): CodeIgniter\Database\BaseBuilder->get()
+#3 E:\Xampp\htdocs\gokarty\app\Controllers\BaseController.php(67): App\Models\ArbiterModel->getStatus()
+#4 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(810): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#5 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 E:\Xampp\htdocs\gokarty\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\Xampp\htdocs\gokarty\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
